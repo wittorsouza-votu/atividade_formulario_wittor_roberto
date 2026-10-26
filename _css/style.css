@@ -1,0 +1,15 @@
+h1{
+    color: rgb(143, 27, 27);
+}
+hr{
+    height: 15px;
+    border-radius:22px;
+    color: rgb(112, 27, 27);
+}
+input1{
+    height: 40px;
+    width: 195px;
+    background-color: rgb(171, 219, 219);
+}input2{
+    color: blueviolet;
+}
